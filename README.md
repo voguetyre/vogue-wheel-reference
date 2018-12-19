@@ -22,6 +22,7 @@ Please! Submit a pull request.
 | VO2 | C707801, CV02-VOC CAP, VO2 |
 | VO1 | CV01-VOG CAP, C009901CAP, 89-9471, 89-9371 |
 | VO4 | CV04VOG, 89-9475 |
+| Rampage | 89-9319V<br>89-9319VA (cap discontinued)<br>89-9419VA (new style Vogue logo) |
 
 # Other Brand Wheels
 
@@ -261,7 +262,9 @@ MTF-2,S1050-F002=SCHOTTZE
 | RIO | 89-9190V, 89-9190L, WCA-283	|
 
 ## ULTRA CAP LOCK SETS
-RIO/JOVAN | 550-800-100, 550-800-125 |
+| Wheel | Cap Lock Numbers |
+| ------ | ------ |
+| RIO / JOVAN | 550-800-100, 550-800-125 |
 
 ## WHEEL PROS
 VOGUE=DIAMO 15K/LUX
