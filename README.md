@@ -169,6 +169,8 @@ MERLOT SHORT =1.5 INCHES
 10566=TUNER KEY
 
 ## MKW
+| Wheel | Caps |
+| ------ | ------ |
 | BAZO | B-26 BAC-S-002 |
 | ZIRCON | CO28-550794 |
 
