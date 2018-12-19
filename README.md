@@ -4,10 +4,6 @@
 
 Please! Submit a pull request.
 
-## Authors
-
-* **JP Davy** - *Initial work* - [JP Davy](https://github.com/jp-davy)
-
 # Vogue Exclusive Wheels
 | Wheel | Caps |
 | ------ | ------ |
@@ -496,7 +492,9 @@ S31104, 3264183	HELO H3 LOCK
 | STARDUST NEW | A384 |	
 | SST-3 | ACL-00006MM, 84089 |
 
+## Authors
 
+* **JP Davy** - *Initial work* - [JP Davy](https://github.com/jp-davy)
 
 ## License
 
